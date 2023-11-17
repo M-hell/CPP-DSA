@@ -25,5 +25,5 @@ int main()
         ans=to_string(hour);
     }
     string str2=s.substr(2,s.size()-4);
-    cout<<ans+str2<<endl;;
+    cout<<ans+str2<<endl;
 }
